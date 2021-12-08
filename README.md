@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Shotgunz](https://github.com/Arti2666/Shotgunz)
 
-- 🌱 I’m currently reading **the book: "Ruby on Rails Tutorial by Michael Hartl"** to improve my ruby skills. And the **Three.JS** course by Bruno Simon**
+- 🌱 I’m currently reading **the book: "Ruby on Rails Tutorial by Michael Hartl"** to improve my ruby skills.
 
 - 📫 How to reach me **jobart.pro@gmail.com**
 
