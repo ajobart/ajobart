@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a Angular project for a client
 
-- 🌱 I’m currently improve my ruby skills in Angular.
+- 🌱 I’m currently improve my Angular skills.
 
 - 📫 How to reach me **jobart.pro@gmail.com**
 
