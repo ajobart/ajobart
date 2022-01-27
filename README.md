@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajobart&label=Profile%20views&color=0e75b6&style=flat" alt="ajobart" /> </p>
 
-- 🔭 I’m currently working on [Shotgunz](https://github.com/Arti2666/Shotgunz) and my [TwitterClone app](https://github.com/ajobart/twitter_clone)
+- 🔭 I’m currently working on a Angular project for a client
 
-- 🌱 I’m currently reading **the book: "Ruby on Rails Tutorial by Michael Hartl"** to improve my ruby skills.
+- 🌱 I’m currently improve my ruby skills in Angular.
 
 - 📫 How to reach me **jobart.pro@gmail.com**
 
