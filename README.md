@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexis !</h1>
 <h3 align="center">I am developper from France 🇫🇷.</h3>
 
+
 - 🔭 I’m currently working on a Angular project for a client on Gitlab.
 
 - 🌱 I’m currently improving my Angular skills.
