@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajobart&label=Profile%20views&color=0e75b6&style=flat" alt="ajobart" /> </p>
 
-- 🔭 I’m currently working on a Angular project for a client.
+- 🔭 I’m currently working on a Angular project for a client on Gitlab.
 
 - 🌱 I’m currently improving my Angular skills.
 
