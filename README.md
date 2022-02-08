@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently improving my Angular skills.
 
-- 📫 How to reach me **jobart.pro@gmail.com**
+- 📫 Reach me at : **jobart.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
