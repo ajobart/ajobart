@@ -2,7 +2,7 @@
 <h3 align="center">I'm developper from France 🇫🇷.</h3>
 
 
-- 🔭 I’m currently working on a Solidity project for a client.
+- 🔭 I’m currently working on a Solidity project for a client on Gitlab.
 
 - 🌱 I’m currently learning more about Solidity and React to improve my skills.
 
