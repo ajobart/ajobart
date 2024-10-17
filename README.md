@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alexis !</h1>
-<h3 align="center">I'm developper from France 🇫🇷.</h3>
+<h3 align="center">I'm a developper from France 🇫🇷.</h3>
 
 
-- 🔭 I’m currently working on multiple dApps project for a client on Gitlab.
+- 🔭 I’m currently working on multiple projects for a company.
 
-- 🌱 I’m currently learning more about Solidity and Angular to improve my skills.
+- 🌱 I’m currently learning more about React to improve my skills.
 
 - 📫 Reach me at : **jobart.pro@gmail.com**
 
